@@ -1,8 +1,13 @@
 import React from 'react';
+import Nav from './components/nav';
+import Container from './components/Container';
 
 const App = () => {
   return (
-    <div>Hello World!</div>
+    <div>
+      <Nav />
+      <Container />
+    </div>
   );
 };
 
