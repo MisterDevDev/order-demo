@@ -5,8 +5,8 @@ import Routes from "./container_parts/Routes";
 const Container = () => {
   return (
     <div className="container" style={{ marginTop: "3rem" }}>
+      <Breadcrumb />
       <div className="notification is-white-bis is-fullheight">
-        <Breadcrumb />
         <Routes />
       </div>
     </div>
