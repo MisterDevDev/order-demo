@@ -25,7 +25,7 @@ const Carriers = () => {
       <br />
       <br />
       <div className="buttonContainer">
-        <Link to="/">
+        <Link style={{textDecoration:'none'}} to="/">
           <button className="button is-primary">Submit</button>
         </Link>
       </div>

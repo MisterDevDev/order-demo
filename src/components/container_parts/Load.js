@@ -9,7 +9,7 @@ const Load = (props) => {
     setTimeout(() => {
       setLoad(false);
       props.history.push("/orders");
-    }, 2000);
+    }, 1200);
   };
   return (
     <div className="titleContainer">

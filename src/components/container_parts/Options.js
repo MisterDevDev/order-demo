@@ -56,7 +56,7 @@ const Options = () => {
         <hr />
       </div>
       <div className="buttonContainer">
-        <Link to="/carriers">
+        <Link style={{textDecoration:'none'}} to="/carriers">
           <button className="button is-info">Next</button>
         </Link>
       </div>

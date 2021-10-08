@@ -61,7 +61,7 @@ const Orders = () => {
         </li>
       </ul>
       <div className="buttonContainer">
-        <Link to="/options">
+        <Link style={{textDecoration:'none'}} to="/options">
           <button className="button is-info">Next</button>
         </Link>
       </div>
