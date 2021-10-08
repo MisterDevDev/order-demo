@@ -2,6 +2,9 @@
   "name": "order-demo",
   "version": "1.0.0",
   "description": "demo of order forms",
+  "engines": {
+    "node": "14.16.0"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node server",
@@ -12,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickcarr51/FSA-2010-Simple-Boilerplate.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nickcarr51/FSA-2010-Simple-Boilerplate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/nickcarr51/FSA-2010-Simple-Boilerplate#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.13.0",
     "@babel/preset-react": "^7.12.13",
