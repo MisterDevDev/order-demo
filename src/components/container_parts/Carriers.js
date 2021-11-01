@@ -6,7 +6,7 @@ const Carriers = () => {
     name: "UPS",
     services: [
       { id:1, description: "UPS - 9 to 15 day delivery", price: 7.99 },
-      { id:2, description: "UPS - 8 to 10 day delivery", price: 15.99 },
+      { id:2, description: "UPS - 7 to 10 day delivery", price: 15.99 },
       { id:3, description: "UPS - 3 to 4 express delivery", price: 19.99 },
       { id:4, description: "UPS - over night delux", price: 34.26 },
     ],
